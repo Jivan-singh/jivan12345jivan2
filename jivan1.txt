@@ -1,8 +1,7 @@
 
 Q-1 Which of the following are real constants?
- 3, ‘A’, 4.5, 3.0, ‘+’, -25, -0.0
+ 3, â€˜Aâ€™, 4.5, 3.0, â€˜+â€™, -25, -0.0
 Ans-4.5 , 3.0 , -0.0
-
 
 Q-2 Which of the following are not keywords in C Language?
 
