@@ -1,0 +1,38 @@
+
+Q-1 Which of the following are real constants?
+ 3, ‘A’, 4.5, 3.0, ‘+’, -25, -0.0
+Ans-4.5 , 3.0 , -0.0
+
+
+Q-2 Which of the following are not keywords in C Language?
+
+  auto, dynamic, static, typedef, define, enum, is, default, this, super.
+Ans-this, super, is, define, dynamic.
+
+Q-3 Which of the following is not a valid variable name in C language?
+Ans- 1a not a variable name, any keyword for example:- auto , int , double , switch etc are not use the variable name.
+
+Q-4 Can we make a variable with the name switch? (Yes or No)
+Ans- No.
+
+Q-5 Keywords are defined in the compiler or their meaning is stored in the library?
+Ans-Keywords are predefined, reserved words used in programming that have special meanings to the compiler.
+ For example:- int jivan; Here, int is a keyword that indicates jivan is a variable of type int.
+ Their meaning is stored in the library.
+  C89 version :- 32 keyword            C99:- 5 new keyword              C11:- 7 new keyword
+
+Q-6 Where variables are created? (RAM, ROM, Secondary Storage or CPU)
+Ans- RAM.
+
+Q-7 Who developed C Language?
+Ans- Dennis Ritchie
+
+Q-8 When was the C language developed?
+Ans- 1972
+
+Q-9 What is the name of the operating system which is responsible for the inception of the language?
+Ans- Unix operating system.
+
+Q-10 Whether C language is a high level or low level programming language?
+Ans- Yes.Because its builds system software and application software.
+
